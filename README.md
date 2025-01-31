@@ -17,7 +17,8 @@ Este script Python permite excluir e-mails de uma caixa de entrada do Gmail dent
    pip install imap-tools
    ```
 
-Configuração
+Configuração:
+
 Abra o arquivo script.py e substitua os seguintes valores:
 
 username: Substitua "seu_email@gmail.com" pelo seu endereço de e-mail do Gmail.
@@ -40,7 +41,8 @@ Execute o script utilizando o Python:
     python script.py
     ```
 
-Funcionamento
+Funcionamento:
+
 O script se conecta à caixa de entrada do Gmail usando o protocolo IMAP.
 
 Ele busca e exclui e-mails recebidos dentro do período especificado.
